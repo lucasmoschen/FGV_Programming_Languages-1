@@ -1,0 +1,16 @@
+Curso de Git/Github
+
+Aula 1:
+#Controle de versão: Gerencia diferentes versões de um documento. Cria versões de um documento, para que não haja dificuldades para voltar a versão. 
+Sistemas no geral capturam as mudanças dos arquivos e guarda somente essas diferenças em um novo arquivo. Esse sistema dificulta um pouco a volta. 
+Já o Git tira fotos, snapshots, e coloca o estados dos arquivos, que formam as versões.  Todo estado sempre leva todos os arquivos. 
+1) Responsável por versionar o arquivo;
+2) Git trabalha com os estados dos arquivos e outros sitemas com as alterações
+O GitHub é um serviço de web (nuvem) que armazena arquivos versionados no Git. É um cófigo open source. 
+
+Aula 2
+#Instalar Git: Bem simples e no site do Git mesmo. 
+#Configurar Git: git config --global user.nome "NOME" indica configuração de username. git config --global user.email "EMAIL" configura o e-mail. Existem outras configurações também. 
+
+Aula 3
+#inicializando repositório: o código no teminal é "ikdir". Depois "git init", pque é muito parecido com uma câmera. 
