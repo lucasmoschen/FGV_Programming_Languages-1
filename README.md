@@ -27,8 +27,8 @@ Por quê Python?  [1](https://www.tiobe.com/tiobe-index/), [2](https://medium.fr
 
 Configurações:
   + [Configurando o upstream localmente](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
-
   + [Sincronizando um fork de repositório com o upstream](https://help.github.com/articles/syncing-a-fork/)
+  + [Desfazendo um commit](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
  
 #### Sobre os Ambientes de Desenvolvimento:
 
@@ -60,4 +60,5 @@ Configurações:
 #### Outros recursos  
 
 [Exemplo de Banco de Dados](https://github.com/datacharmer/test_db)
+[Making CLI Tools with Python](https://medium.com/dabbler-in-de-stress/make-linux-cli-tools-756f7f7f06b3)
 
