@@ -9,3 +9,5 @@ um texto	depois de um <tab>olá, como vai
 Então tchau!
 
 um texto	depois de um <tab>
+Acrestei mais uma linha pelo método append
+Acrescentei mais uma linha pelo método append
