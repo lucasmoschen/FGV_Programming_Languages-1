@@ -8,3 +8,13 @@ Sobre o banco de dados "classicmodels", indique as queries para obter as seguint
 - Na tabela "employees", indique quantos nomes de cargos ("jobTitle") únicos existem? 
 - Qual destes cargos ("jobTitle") possuem mais funcionários?
 
+Respostas:
+
+- select count(*) from customers
+- select count(customerName) from customers where customerName like "M%"
+- select concat('customerName'+' '+'customerLastname') as fullName from customers
+- select upper(fullName) as FULLNAME from customers order by customerLastname
+- select * from payments order by amount,paymentDate
+- select count(distinct jobTitle) from employees
+- select upper(jobTitle) as JOBTITLE from customers
+    -select max(count(jobTitle)) from customers 
